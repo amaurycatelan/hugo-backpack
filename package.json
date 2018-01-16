@@ -1,0 +1,14 @@
+{
+  "name": "hugo-backpack",
+  "description": "Hugo Backpack",
+  "url": "https://github.com/amaurycatelan/hugo-backpack",
+  "version": "0.17.1",
+  "bin": {
+    "hugo-backpack": "./bin/hugo_0.17.1_linux-64bit.tar.gz"
+  },
+  "main": "./lib/index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amaurycatelan/hugo-backpack.git"
+  }
+}
